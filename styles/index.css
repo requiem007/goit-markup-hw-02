@@ -120,7 +120,6 @@ span {
 }
 
 .description-title {
-  font-size: 16px;
   line-height: 1.14;
   text-transform: uppercase;
   color:var(--main-color);
@@ -172,7 +171,6 @@ span {
 
 /* Portfolio */
 .portfolio-btn{
-  width: 128px;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.62;
